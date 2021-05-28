@@ -11,8 +11,8 @@ import Table from "./components/Table";
 function App() {
   return (
     <div className="App">
-      <ClickCounter />
-      <HoverComponent />
+      <ClickCounter name="Divyansh" />
+      <HoverComponent name="DarkKnight" />
       {/* <FocusInput /> */}
       {/* <RefsDemo /> */}
       {/* <Table /> */}
